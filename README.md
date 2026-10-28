@@ -1,122 +1,121 @@
 <div align="center">
 
-# F U R E S T A
+# Charadas da furesta
 
-### Um cantinho para criar, contribuir e pertencer.
+### Sua fursona, sua turma e uma rodada de diversão.
 
-**Código aberto. Patas amigas. Pequenos passos, juntos.**
+**Charadas e quizzes ao vivo para a comunidade furry, com templates predefinidos.**
 
-![Feito em comunidade](https://img.shields.io/badge/feito-em_comunidade-8B6F57?style=for-the-badge)
-![Espírito open source](https://img.shields.io/badge/espírito-open_source-72866A?style=for-the-badge)
-![Toda contribuição conta](https://img.shields.io/badge/toda-contribuição_conta-B5836D?style=for-the-badge)
+[Português](#português) · [English](#english)
 
-[Português](#português--furesta) &nbsp; · &nbsp; [English](#english--furrest)
-
----
-
-*Um lugar para sua curiosidade, suas ideias e sua fursona se sentirem em casa.*
+*Prepare as perguntas, reúna as patinhas e deixe a brincadeira começar!*
 
 </div>
 
-## Português · Furesta
+---
 
-Estamos dando vida à **Furesta**: um site feito pela comunidade, para a comunidade, onde aplicações de código aberto, colaboração e carinho pelas pessoas se encontram.
+## Português
 
-Um espaço acolhedor para furries e amigos descobrirem projetos, compartilharem conhecimento e construírem coisas úteis juntos. Seja qual for sua fursona, sua experiência ou seu jeito de participar, tem lugar para você aqui.
+**Charadas da furesta** é um projeto de site de charadas e quizzes interativos, inspirado na dinâmica do Kahoot e voltado ao público furry. A proposta é reunir amigos e comunidades em partidas ao vivo, com perguntas, respostas e aquela competição amigável.
 
-### Nossa forma de construir
+Com **templates predefinidos**, quem organiza pode partir de um modelo pronto e adaptá-lo à sua turma, sem precisar criar toda a atividade do zero. A identidade visual e os temas trazem o universo furry para o centro da experiência.
 
-| Aberto para explorar | Simples para contribuir | Acolhedor para ficar |
-| :--- | :--- | :--- |
-| Descobrir, compartilhar e melhorar aplicações de código aberto. | Dar pequenos passos, com ideias claras e feedback construtivo. | Conhecer pessoas, aprender junto e cuidar da comunidade. |
+### Como funciona a proposta
 
-Queremos uma base simples para transformar ideias em melhorias: conversar com respeito, entender o que pode ajudar e construir uma coisa de cada vez. Sem complicar o que pode ser leve.
+1. **Escolha um template:** selecione um modelo para a sua partida.
+2. **Personalize a atividade:** adapte as charadas, perguntas e alternativas ao tema escolhido.
+3. **Reúna a turma:** compartilhe o acesso à sala com os participantes.
+4. **Jogue ao vivo:** acompanhe as respostas, a pontuação e a classificação ao longo das rodadas.
 
-### Toda contribuição tem seu lugar
+### Recursos planejados
 
-**Você não precisa saber programar, ter muito tempo ou chegar com uma grande ideia.**
+- **Templates predefinidos:** modelos com estrutura de perguntas e apresentação prontas para personalizar.
+- **Charadas e quizzes personalizados:** atividades sobre o universo furry e outros assuntos que a comunidade quiser explorar.
+- **Salas de jogo ao vivo:** partidas para reunir amigos, grupos e participantes de eventos.
+- **Participação por código ou link:** acesso simples à sala compartilhada por quem organiza.
+- **Pontuação e classificação:** resultados para acompanhar a competição de forma divertida.
+- **Identidade furry:** elementos visuais inspirados em fursonas, patinhas e na atmosfera da Furesta.
 
-- Corrigir uma palavra ou traduzir uma frase.
-- Testar uma aplicação e contar como foi.
-- Compartilhar uma ideia, um desenho ou um projeto de código aberto.
-- Ajudar com código, documentação, design ou acessibilidade.
-- Acolher quem chegou agora ou ajudar a organizar um encontro.
+### Ideias de templates
 
-Uma linha de código, uma pergunta gentil, alguns minutos de atenção: tudo isso ajuda. **Contribua com o que puder, no seu ritmo.** Não existe contribuição pequena demais, nem obrigação de fazer mais do que cabe no seu dia.
+| Template | Proposta |
+| :--- | :--- |
+| Charadas da floresta | Enigmas sobre animais, natureza e criaturas imaginárias. |
+| Quiz do fandom | Perguntas sobre personagens, arte e cultura furry. |
+| Conheça a fursona | Perguntas e pistas sobre as fursonas da turma, com informações compartilhadas voluntariamente. |
+| Desafio da comunidade | Uma base personalizável para encontros, eventos e brincadeiras em grupo. |
 
-### Da tela para perto
+### Estado do projeto
 
-A Furesta também nasce para aproximar pessoas. Queremos cultivar encontros virtuais e presenciais: para conversar, aprender, criar ou só passar um tempo com gente que compartilha nossos interesses.
+Este README descreve a proposta do **Charadas da furesta**. Os recursos e templates listados são planejados; a disponibilidade de cada um depende do andamento do desenvolvimento.
 
-O site cresce com a comunidade. E a comunidade cresce quando encontramos espaço para estar juntos, respeitando os limites e o jeito de cada pessoa.
+### Feito com a comunidade
 
-### Puxe uma cadeira
+Quer ajudar a construir essa experiência? Você pode contribuir com:
 
-Tem uma ideia ou dúvida? Abra uma **issue**. Quer propor uma melhoria? Envie um **pull request**. Ainda está aprendendo? Você também faz parte dessa construção.
+- Ideias de charadas, perguntas e novos templates.
+- Design, ilustrações e sugestões de acessibilidade.
+- Código, documentação e traduções.
+- Testes e relatos de problemas.
 
-> **Simplicidade é a chave. Carinho é o ponto de partida. O próximo pequeno passo pode ser seu.**
+Abra uma **issue** para compartilhar uma ideia ou relatar um problema. Para propor alterações no projeto, envie um **pull request** com uma descrição clara da mudança.
+
+Queremos um espaço acolhedor para furries e amigos, com respeito às pessoas, às suas identidades e aos seus limites. Use apenas imagens, personagens e conteúdos que você tenha permissão para compartilhar.
+
+> **Uma charada, muitas patinhas e diversão em comunidade.**
+
+---
+
+## English
+
+**Charadas da furesta** is a website project for interactive riddles and quizzes, inspired by Kahoot's live game format and designed for the furry community. The idea is to bring friends and communities together for live rounds of questions, answers, and friendly competition.
+
+With **predefined templates**, hosts can start from a ready-made format and adapt it to their group. The visual identity and themes put the furry world at the heart of the experience.
+
+### How the proposed experience works
+
+1. **Choose a template:** pick a starting format for your game.
+2. **Customize the activity:** adapt the riddles, questions, and answer choices to your theme.
+3. **Gather your group:** share access to the game room with participants.
+4. **Play live:** follow answers, scores, and rankings throughout the rounds.
+
+### Planned features
+
+- **Predefined templates:** customizable question structures and presentation formats.
+- **Custom riddles and quizzes:** activities about the furry world and other topics the community wants to explore.
+- **Live game rooms:** games for friends, groups, and event attendees.
+- **Join by code or link:** simple access through an invitation shared by the host.
+- **Scores and rankings:** results to keep the competition fun.
+- **Furry visual identity:** design elements inspired by fursonas, paws, and the atmosphere of Furesta.
+
+### Template ideas
+
+| Template | Concept |
+| :--- | :--- |
+| Forest riddles | Riddles about animals, nature, and imaginary creatures. |
+| Fandom quiz | Questions about furry characters, art, and culture. |
+| Meet the fursona | Questions and clues about the group's fursonas, using voluntarily shared information. |
+| Community challenge | A customizable starting point for meetups, events, and group games. |
+
+### Project status
+
+This README describes the vision for **Charadas da furesta**. The features and templates listed are planned; their availability depends on development progress.
+
+### Built with the community
+
+You can contribute riddles, quiz questions, template ideas, design, illustrations, accessibility suggestions, code, documentation, translations, and testing.
+
+Open an **issue** to suggest an idea or report a problem. To propose project changes, submit a **pull request** with a clear description.
+
+We want a welcoming space for furries and friends, respecting people's identities and boundaries. Only use images, characters, and content you have permission to share.
+
+> **One riddle, many paws, and a community having fun.**
 
 ---
 
 <div align="center">
 
-# F U R R E S T
-
-### A cozy corner to create, contribute, and belong.
-
-**Open source. Friendly paws. Small steps, together.**
-
-*A place for your curiosity, your ideas, and your fursona to feel at home.*
-
-</div>
-
-## English · Furrest
-
-We're bringing **Furrest** to life: a community-driven website where open-source applications, constructive collaboration, and care for one another come together.
-
-A welcoming space for furries and friends to discover projects, share knowledge, and build useful things together. Whatever your fursona, experience, or way of joining in, there's room for you here.
-
-### How we build
-
-| Open to explore | Simple to contribute | Cozy enough to stay |
-| :--- | :--- | :--- |
-| Discover, share, and improve open-source applications. | Take small steps with clear ideas and constructive feedback. | Meet people, learn together, and care for the community. |
-
-We want a simple framework for turning ideas into improvements: talk with respect, understand what would help, and build one thing at a time. Keep things approachable and easy to join.
-
-### Every contribution belongs
-
-**You don't need to code, have hours to spare, or arrive with a big idea.**
-
-- Fix a word or translate a sentence.
-- Try an application and share your experience.
-- Bring an idea, a drawing, or an open-source project to share.
-- Help with code, documentation, design, or accessibility.
-- Welcome someone new or help organize a meetup.
-
-One line of code, a kind question, a few minutes of care: it all helps. **Give what you can, at your own pace.** No contribution is too small, and there's no pressure to give more than fits your day.
-
-### Beyond the screen
-
-Furrest is also about bringing people closer. We want to grow virtual and in-person gatherings: to chat, learn, create, or simply spend time with people who share our interests.
-
-The website grows with the community. The community grows when we make room to be together, respecting each person's boundaries and way of participating.
-
-### Pull up a chair
-
-Have an idea or a question? Open an **issue**. Want to suggest an improvement? Send a **pull request**. Still learning? You're part of building this, too.
-
-> **Simplicity is the key. Kindness is where we start. The next small step could be yours.**
-
----
-
-<div align="center">
-
-**Uma ideia. Uma linha. Um encontro. Tudo conta.**  
-*One idea. One line. One meetup. It all counts.*
-
-**Furesta · Furrest**
-
-<sub>Feito em comunidade, com carinho. / Made together, with care.</sub>
+**Charadas da furesta**  
+*Feito em comunidade, com carinho. / Made together, with care.*
 
 </div>
